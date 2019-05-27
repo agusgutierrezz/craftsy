@@ -1,0 +1,112 @@
+body {
+  background-image: url('../img/bg-2.png');
+  font-family: verdana;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  width: 1140px;
+  background-color: #f44611;
+  overflow: hidden;
+  padding: 10px;
+}
+
+.productos {
+  width: 800px;
+  overflow: hidden;
+  float: left;
+  background-color: white;
+  margin-top: 20px;
+}
+
+section {
+  width: 320px;
+  float: left;
+}
+
+main {
+  overflow: hidden;
+}
+
+.nav {
+  margin-left: 20px;
+  float: left;
+}
+
+.nav li {
+  display: inline;
+  list-style: none;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-right {
+  float: right;
+}
+
+.nav-right li {
+  display: inline;
+  list-style: none;
+  padding: 10px;
+}
+
+#logo {
+  float: left;
+}
+
+.box {
+  width: 380px;
+  float: left;
+  margin: 10px;
+  text-align: justify;
+}
+
+.container {
+  display: block;
+  margin: 0 auto;
+  width: 1140px;
+}
+
+input {
+  background-color: #f44611;
+  padding: 16px;
+  color: white;
+  border: 1px solid white;
+}
+
+article.tutorial {
+  overflow: hidden;
+  border: solid 1px white;
+  margin: 5px;
+  background-color: white;
+}
+
+h4 {
+  float: right;
+  width: 50%;
+}
+article.tutorial img{
+  width: 30%;
+  padding: 5%;
+}
+
+
+
+h2 {
+  background-color: white;
+}
+
+section {
+  margin-left: 20px;
+}
+
+.publi img {
+  width: 300px;
+  height: 225px;
+  margin-top: 20px;
+}
